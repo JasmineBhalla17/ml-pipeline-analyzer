@@ -43,16 +43,16 @@ Install the dependencies from the requirements.txt file using
     python -m pip install -r requirements.txt
     
 ## Package Structure:
-Here are the main folders in our github MLPA repository:
-    App 
-    docs
-    examples
-    icons
-    mlpipeline_analyzer
-     - suggest
-     - visualizer
-    tests
-    uploads
+Here are the main folders in our github MLPA repository:\
+- App 
+- docs
+- examples
+- icons
+- mlpipeline_analyzer
+     -- suggest
+     -- visualizer
+- tests
+- uploads
 
 ## Code Examples:
 
